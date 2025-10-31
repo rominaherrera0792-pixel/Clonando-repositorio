@@ -1,10 +1,10 @@
 
 body {
     height: 100%;
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #bbdefb;
+    background-color: #bbfbd8;
 }
 
 .navbar-blanco {
@@ -20,7 +20,7 @@ body {
 .navbar-blanco .logo-unpaz { height: 40px; margin-right: 20px; }
 
 .navbar-celeste {
-    background-color: #2980B9;
+    background-color: #b96f29;
     color: #ffffff;
     padding: 10px;
     text-align: center;
